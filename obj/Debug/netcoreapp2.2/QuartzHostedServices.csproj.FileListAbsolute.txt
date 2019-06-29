@@ -1,0 +1,11 @@
+D:\work\dotnet\QuartzHostedServices\obj\Debug\netcoreapp2.2\QuartzHostedServices.csprojAssemblyReference.cache
+D:\work\dotnet\QuartzHostedServices\obj\Debug\netcoreapp2.2\QuartzHostedServices.csproj.CoreCompileInputs.cache
+D:\work\dotnet\QuartzHostedServices\obj\Debug\netcoreapp2.2\QuartzHostedServices.AssemblyInfoInputs.cache
+D:\work\dotnet\QuartzHostedServices\obj\Debug\netcoreapp2.2\QuartzHostedServices.AssemblyInfo.cs
+D:\work\dotnet\QuartzHostedServices\bin\Debug\netcoreapp2.2\QuartzHostedServices.deps.json
+D:\work\dotnet\QuartzHostedServices\bin\Debug\netcoreapp2.2\QuartzHostedServices.runtimeconfig.json
+D:\work\dotnet\QuartzHostedServices\bin\Debug\netcoreapp2.2\QuartzHostedServices.runtimeconfig.dev.json
+D:\work\dotnet\QuartzHostedServices\bin\Debug\netcoreapp2.2\QuartzHostedServices.dll
+D:\work\dotnet\QuartzHostedServices\bin\Debug\netcoreapp2.2\QuartzHostedServices.pdb
+D:\work\dotnet\QuartzHostedServices\obj\Debug\netcoreapp2.2\QuartzHostedServices.dll
+D:\work\dotnet\QuartzHostedServices\obj\Debug\netcoreapp2.2\QuartzHostedServices.pdb
